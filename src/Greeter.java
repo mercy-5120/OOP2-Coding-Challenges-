@@ -8,3 +8,4 @@ public class Greeter {
         (new Greeter()). greet();
     }
 }
+
